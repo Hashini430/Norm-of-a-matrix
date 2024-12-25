@@ -42,4 +42,4 @@ print("{:.2f}".format(res))
 ![Alt text](<Screenshot from 2024-12-25 18-50-17.png>)
 
 ## Result
-T```hus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.```
+```Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.```
